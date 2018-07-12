@@ -16,7 +16,9 @@ Used modules like nodemon, express, mongoose, body-parser, cors,
    	"express": "^4.16.3",
     	"mongoose": "^5.2.2"
 
-clone the director to you local path, go to the project path and enter the following  comment
+run npm init to install node modules.
+
+clone the directory to you local path, go to the project path and enter the following  comment
 
 $-: npm run start
 
